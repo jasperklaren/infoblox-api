@@ -1,3 +1,4 @@
+# Delete a specific CNAME
 $headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
 $headers.Add("Authorization", "Basic xxxxxxx")
 

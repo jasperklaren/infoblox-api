@@ -1,3 +1,4 @@
+# Get a CNAME to check if it exists
 $headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
 $headers.Add("Authorization", "Basic xxxxxxx")
 

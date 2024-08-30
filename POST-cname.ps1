@@ -1,3 +1,4 @@
+# Create a new CNAME in the external view
 $headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
 $headers.Add("Content-Type", "application/json")
 $headers.Add("Authorization", "Basic xxxxxxx")
